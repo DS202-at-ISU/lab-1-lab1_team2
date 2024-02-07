@@ -38,6 +38,14 @@ All submissions to the github repo will be automatically uploaded for grading on
 
 -   
 
+<<<<<<< HEAD
 12.6 Step:3
+=======
+12.5 Step:
+
+- The branch that I was working on was not up to date so my push failed. I had to pull the changes and then I was able to commit and push my changes
+
+
+>>>>>>> 9238ba63a49d78c5592c205d5d8078db19db94f0
 
 -   
